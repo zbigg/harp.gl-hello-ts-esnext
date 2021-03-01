@@ -9,7 +9,7 @@
     "@here/harp-map-theme": "^0.10.0",
     "@here/harp-mapview": "^0.10.0",
     "@here/harp-omv-datasource": "^0.10.0",
-    "three": "^0.107.0",
+    "three": "^0.125.0",
     "ts-loader": "^6.2.0",
     "typescript": "^3.6.4",
     "webpack": "^4.41.2",
